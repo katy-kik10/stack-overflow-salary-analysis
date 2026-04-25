@@ -22,7 +22,7 @@ The work was divided into the following technical processing stages:
 
 1. Data Cleaning: Checking data for completeness. I found that due to the large number of questions, no respondent answered all 126 items, which required us to use flexible filtering for each individual query.
 
-2. Filtration & Segmenting: Identifying target groups (e.g., “Python developers,” “Remote workers”).
+2. Filtration & Segmenting: Identifying target groups (e.g., “Python developers”, “Remote workers”).
 
 3. Statistical Analysis: Calculating means, medians, and quartiles (Q3) for salary analysis.
 
@@ -33,7 +33,7 @@ Python's popularity: 37.5% of respondents use Python. At the same time, we are s
 
 Educational trend: A huge number of people (nearly 11,000 in the sample) learned to code specifically through online courses, which calls into question the dominance of traditional education.
 
-Remote work: Remote work has become the norm—over 10,000 respondents work remotely, and this format correlates with high income levels in certain industries.
+Remote work: Remote work has become the norm-over 10,000 respondents work remotely, and this format correlates with high income levels in certain industries.
 
 Salary anomalies: I discovered an interesting insight - the highest salaries (Top 5) do not always go to those with master’s degrees. The top ranks include professionals with associate degrees, underscoring the importance of skills over a degree.
 
